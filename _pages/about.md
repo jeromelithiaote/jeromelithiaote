@@ -11,7 +11,7 @@ permalink: /
 <img src="/images/about/about-banner-1200w.png" alt="drawing" width="100%"/>
 <!-- ![](images/about/banner_zheng.png) -->
 
-You can find me via emails 📨 contact@j3zz.com
+You can find me via emails 📨 contact@j3zz.com or [via the contact form](/contact) 
 
 <!--
 #TODO update CV, portfolio downloadable as PDF files
