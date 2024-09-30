@@ -4,6 +4,7 @@ subtitle: 'Imputing Missing Genomes using Computational Methods'
 date: 2019-05-13
 description:
 featured_image: '/images/600x1200.jpg'
+published: false
 ---
 
 <a href="http://mahonylab.org/" class="button button--small">Link to Research Lab</a>

@@ -13,10 +13,11 @@ permalink: /
 
 You can find me via emails 📨 contact@j3zz.com
 
-<!-- <a href="documents/zheng_zhang_cv.pdf" download class="button">Curriculum Vitae</a> &nbsp; Most recent update: Oct 29, 2019 -->
+<!--
+#TODO update CV, portfolio downloadable as PDF files
 [Curriculum Vitae](documents/zheng_zhang_cv.pdf) *(Right Click to Open in New Tab.)*
-
 Most recent update: September 17, 2024
+-->
 
 ---
 
