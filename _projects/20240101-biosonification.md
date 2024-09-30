@@ -3,7 +3,7 @@ title: '2024 : BIOSONIFICATION'
 subtitle: 'Workshop'
 date: 2024-01-01
 description: 'This biosonification workshop offers a unique opportunity to merge science, art, and technology in order to explore the hidden music of nature. Participants will leave with a renewed appreciation for the plant world and the endless possibilities of sound creation.'
-featured_image: '/images/1200x600.jpg'
+featured_image: '/images/projects/biosonification/biosonification-gallery01_1440w.jpg'
 permalink: /biosonification
 ---
 

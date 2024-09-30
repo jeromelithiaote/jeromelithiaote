@@ -3,7 +3,7 @@ title: '2025 : VIBROTANICA'
 subtitle: 'A/V immersive interactive installation'
 date: 2024-01-01
 description: 'This project explores the interactions between humans and plants by transforming the bio-signals of plants into visual and auditory stimuli. Visitors interact directly with the plants, generating a unique sensory experience that combines art, science, and technology to raise awareness about biodiversity and the relationship between humans and nature'
-featured_image: '/images/1200x600.jpg'
+featured_image: '/images/projects/vibrotanica/vibrotanica-gallery01_1440w.jpg"'
 permalink: /vibrotanica
 ---
 
@@ -13,11 +13,11 @@ permalink: /vibrotanica
 <a href="http://mahonylab.org/" class="button button--small">Link to Research Lab</a>
 <a href="https://www.synapse.org/#!Synapse:syn17083203/wiki/587192" class="button button-small">Link to Project Wiki</a>
 -->
-<!-- #TODO add relevant pictures later
+<!-- #TODO add relevant pictures later -->
 <div class="gallery" data-columns="1">
 	<img src="/images/projects/vibrotanica/vibrotanica-gallery01_1440w.jpg">
 </div>
--->
+
 
 # Basic Concept
 

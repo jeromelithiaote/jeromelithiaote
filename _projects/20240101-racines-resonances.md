@@ -3,7 +3,7 @@ title: '2025 : RACINES & RÉSONANCES'
 subtitle: 'A/V immersive live show'
 date: 2024-01-01
 description: 'The performance presents a score where plants and humans interact, each playing a unique role. It highlights a new dynamic, where improvisation and audience interaction are at the heart of the experience, offering a fresh perspective on the deep connection between the plant and human worlds.'
-featured_image: '/images/1200x600.jpg'
+featured_image: '/images/projects/racines-resonances/racines-resonances-gallery01_1440w.jpg'
 permalink: /racines-resonances
 ---
 
