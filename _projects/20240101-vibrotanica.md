@@ -9,15 +9,15 @@ permalink: /vibrotanica
 
 ### Interact directly with the plants, generating a unique sensory experience that combines art, science, and technology to raise awareness about biodiversity and the relationship between humans and nature.
 
+<!-- #TODO add relevant buttons later
 <a href="http://mahonylab.org/" class="button button--small">Link to Research Lab</a>
 <a href="https://www.synapse.org/#!Synapse:syn17083203/wiki/587192" class="button button-small">Link to Project Wiki</a>
-
-<div class="gallery" data-columns="2">
-	<img src="/images/proj/encode_imputation/Fig2-DataCube.PNG">
-	<img src="/images/proj/encode_imputation/Fig1-SignalTrack.PNG">
-    <img src="/images/proj/encode_imputation/ChIPseq.jpg">
+-->
+<!-- #TODO add relevant pictures later
+<div class="gallery" data-columns="1">
+	<img src="/images/projects/vibrotanica/vibrotanica-gallery01_1440w.jpg">
 </div>
-
+-->
 
 # Basic Concept
 

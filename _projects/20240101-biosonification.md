@@ -9,13 +9,25 @@ permalink: /biosonification
 
 ### A unique opportunity to merge science, art, and technology in order to explore the hidden music of nature.
 
+<!-- #TODO add relevant buttons later
 <a href="http://mahonylab.org/" class="button button--small">Link to Research Lab</a>
 <a href="https://www.synapse.org/#!Synapse:syn17083203/wiki/587192" class="button button-small">Link to Project Wiki</a>
-
-<div class="gallery" data-columns="2">
-	<img src="/images/proj/encode_imputation/Fig2-DataCube.PNG">
-	<img src="/images/proj/encode_imputation/Fig1-SignalTrack.PNG">
-    <img src="/images/proj/encode_imputation/ChIPseq.jpg">
+-->
+<div class="gallery" data-columns="1">
+	<img src="/images/projects/biosonification/biosonification-gallery01_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery02_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery03_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery03_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery04_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery05_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery06_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery07_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery08_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery09_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery10_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery11_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery12_1440w.jpg">
+	<img src="/images/projects/biosonification/biosonification-gallery13_1440w.jpg">
 </div>
 
 # Workshop Concept
