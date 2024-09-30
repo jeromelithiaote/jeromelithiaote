@@ -13,21 +13,22 @@ menu_settings:
       url: '/'
     - title: 'Portfolio'
       url: '/project'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Photographs'
-      url: '/photographs'
-    - title: 'Arts'
-      url: '/arts'
     - title: 'Contact'
       url: '/contact'
+#TODO update section below
+#    - title: 'Blog'
+#      url: '/blog/'
+#    - title: 'Photographs'
+#      url: '/photographs'
+#    - title: 'Arts'
+#      url: '/arts'
 
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 30
 
 contact_settings:
-  form_action: #TODO 'https://formspree.io/zhengzhangedu@gmail.com'
+  form_action: 'https://formspree.io/f/contact@j3zz.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
