@@ -62,3 +62,9 @@ The ultimate goal of **Vibrotanica** goes beyond offering an immersive and spect
 
 # Logistics and Technical Requirements
 <!-- #TODO --> See technical rider.
+
+------------
+
+<div class="gallery" data-columns="3">
+	<img src="/images/projects/vibrotanica/vibrotanica-gallery01_1440w.jpg">
+</div>

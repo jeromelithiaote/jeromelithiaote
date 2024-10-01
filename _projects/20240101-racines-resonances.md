@@ -22,7 +22,6 @@ permalink: /racines-resonances
 	<img src="/images/projects/racines-resonances/racines-resonances-gallery06_1440w.jpg">
 	<img src="/images/projects/racines-resonances/racines-resonances-gallery07_1440w.jpg">
 	<img src="/images/projects/racines-resonances/racines-resonances-gallery08_1440w.jpg">
-
 </div>
 
 
@@ -86,3 +85,16 @@ At these events, the **intergenerational audience** showed great interest in bot
 ------------
 # Logistics and Technical Requirements
 <!-- #TODO --> See technical rider.
+
+------------
+
+<div class="gallery" data-columns="3">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery01_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery02_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery03_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery04_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery05_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery06_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery07_1440w.jpg">
+	<img src="/images/projects/racines-resonances/racines-resonances-gallery08_1440w.jpg">
+</div>
