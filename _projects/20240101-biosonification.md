@@ -109,7 +109,7 @@ The workshop has already been presented at several notable events in 2023 and 20
 * **November 7, 2023: École du Baril, Saint-Philippe (Réunion Island)** - with a CM1/CM2 class of 35 children (8-9-10 years old).
 * **November 6, 2023: École de Bras-Sec, Cilaos (Réunion Island)** - with a CM1/CM2 class of 35 children (8-9-10 years old).
 * **October 28, 2023: Réunion Book Fair, Saint-Leu (Réunion Island)** - with 40 participants.
-* **September 22, 2023: Institut Français de Budapest in Budapest (Hungary)** - with 40 participants, half of whom were children (6 to 10 years old).
+* **September 23, 2023: Institut Français de Budapest in Budapest (Hungary)** - with 40 participants, half of whom were children (6 to 10 years old).
 * **June 10, 2023: Mizik O Marmay Festival, Saint-Pierre (Réunion Island)** - with 40 participants.
 * **June 4, 2023: Rendez-vous aux Jardins, Jardin de l'État, Saint-Denis (Réunion Island)** - with 40 participants.
 * **April 20, 2023: Presentation of work and research on biosonification at the École Supérieure d'Art, Le Port (Réunion Island)** - with 40 participants.
