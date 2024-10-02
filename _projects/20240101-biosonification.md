@@ -111,7 +111,9 @@ The workshop has already been presented at several notable events in 2023 and 20
 * **October 28, 2023: Réunion Book Fair, Saint-Leu (Réunion Island)** - with 40 participants.
 * **September 22, 2023: Institut Français de Budapest in Budapest (Hungary)** - with 40 participants, half of whom were children (6 to 10 years old).
 * **June 10, 2023: Mizik O Marmay Festival, Saint-Pierre (Réunion Island)** - with 40 participants.
-* **April 4, 2023: Rendez-vous aux Jardins, Jardin de l'État, Saint-Denis (Réunion Island)** - with 40 participants.
+* **June 4, 2023: Rendez-vous aux Jardins, Jardin de l'État, Saint-Denis (Réunion Island)** - with 40 participants.
+* **April 20, 2023: Presentation of work and research on biosonification at the École Supérieure d'Art, Le Port (Réunion Island)** - with 40 participants.
+
 
 At these events, the **intergenerational audience** showed great interest in the theme addressed and the artistic work presented. Feedback from both professionals and the public highlighted the **uniqueness and originality** of the concept. Many participants expressed their desire to speak with the artist after the workshop, asking questions and demonstrating that the workshop **effectively captivated minds and provoked deep reflection on the relationship with the living world**.
 
