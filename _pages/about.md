@@ -8,7 +8,10 @@ permalink: /
 
 ### Dive into the Enchanting Fusion of Bio Sounds, Experimental Jazz, Electronics & Strings in an Immersive Audiovisual Interdisciplinary Performance Inspired by Nature.
 
-<img src="/images/about/about-banner-1200w.png" alt="drawing" width="100%"/>
+<!-- TRAILER video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j-zpwYo00gU?si=w8Z8YawXoi4V4Tk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- <img src="/images/about/about-banner-1200w.png" alt="drawing" width="100%"/> -->
 <!-- ![](images/about/banner_zheng.png) -->
 
 You can find me via emails 📨 contact@j3zz.com or [via the contact form](/contact)
