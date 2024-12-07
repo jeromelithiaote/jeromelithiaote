@@ -16,9 +16,9 @@ permalink: /
 
 You can find me via emails 📨 contact@j3zz.com or [via the contact form](/contact)
 
+[EPK](documents/EPK-J3ZZ-2024.pdf) *(Right Click to Open in New Tab.)*
 <!--
 #TODO update CV, portfolio downloadable as PDF files
-[Curriculum Vitae](documents/zheng_zhang_cv.pdf) *(Right Click to Open in New Tab.)*
 Most recent update: September 17, 2024
 -->
 
