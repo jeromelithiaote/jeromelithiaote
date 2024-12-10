@@ -9,14 +9,19 @@ permalink: /
 ### Dive into the Enchanting Fusion of Bio Sounds, Experimental Jazz, Electronics & Strings in an Immersive Audiovisual Interdisciplinary Performance Inspired by Nature.
 
 <!-- TRAILER video -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j-zpwYo00gU?si=w8Z8YawXoi4V4Tk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmO6ouI-fUo?si=1-GVuwLZ1Ppbkne4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- <img src="/images/about/about-banner-1200w.png" alt="drawing" width="100%"/> -->
 <!-- ![](images/about/banner_zheng.png) -->
 
 You can find me via emails 📨 contact@j3zz.com or [via the contact form](/contact)
 
-[EPK](documents/EPK-J3ZZ-2024.pdf) *(Right Click to Open in New Tab.)*
+▶️ [EPK](documents/EPK2025_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+
+▶️ [Technical Rider](documents/TECHRIDER2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+
+▶️ [Hospitality Rider](documents/HOSPITALITY2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+
 <!--
 #TODO update CV, portfolio downloadable as PDF files
 Most recent update: September 17, 2024
