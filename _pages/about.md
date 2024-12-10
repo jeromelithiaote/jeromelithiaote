@@ -9,7 +9,7 @@ permalink: /
 ### Dive into the Enchanting Fusion of Bio Sounds, Experimental Jazz, Electronics & Strings in an Immersive Audiovisual Interdisciplinary Performance Inspired by Nature.
 
 <!-- TRAILER video -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wmO6ouI-fUo?si=1-GVuwLZ1Ppbkne4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wmO6ouI-fUo?si=1-GVuwLZ1Ppbkne4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- <img src="/images/about/about-banner-1200w.png" alt="drawing" width="100%"/> -->
 <!-- ![](images/about/banner_zheng.png) -->
@@ -102,11 +102,17 @@ Collaboration as a violinist with African and European artists in the Azalai pro
 
 ### Video highlights:
 
+[Workshop](https://www.youtube.com/watch?v=PYDdyWp5waY) *(Right Click to Open in New Tab.)*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PYDdyWp5waY?si=-G4SxjWdncLH9wGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Ex Nihilo 2](https://www.youtube.com/watch?v=Jc6lOe_jvCQ) *(Right Click to Open in New Tab.)*
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jc6lOe_jvCQ?si=Uj0BbzpEO26mVJs9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Stereo Woods](https://www.youtube.com/watch?v=-DyZlkGGLiE) *(Right Click to Open in New Tab.)*
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-DyZlkGGLiE?si=-GD5oKDCXMP91fNy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Showreel](https://www.youtube.com/watch?v=sl-GYb-_PM0) *(Right Click to Open in New Tab.)*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sl-GYb-_PM0?si=THvDpIXH1YtRBkoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- #TODO [...](https://www.youtube.com/watch?v=sl-GYb-_PM0) *(Right Click to Open in New Tab.)*
 -->
