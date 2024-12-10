@@ -16,11 +16,14 @@ permalink: /
 
 You can find me via emails 📨 contact@j3zz.com or [via the contact form](/contact)
 
-▶️ [EPK](documents/EPK2025_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+▶️ <a href="{{ site.url }}/documents/EPK2025_J3ZZ_SOLO.pdf" >EPK</a> *(Right Click to Open in New Tab.)*
+<!-- ▶️ [EPK](documents/EPK2025_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)* -->
 
-▶️ [Technical Rider](documents/TECHRIDER2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+▶️ <a href="{{ site.url }}/documents/TECHRIDER2025_ENG_J3ZZ_SOLO.pdf" >Technical Rider</a> *(Right Click to Open in New Tab.)*
+<!-- ▶️ [Technical Rider](documents/TECHRIDER2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)* -->
 
-▶️ [Hospitality Rider](documents/HOSPITALITY2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)*
+▶️ <a href="{{ site.url }}/documents/HOSPITALITY2025_ENG_J3ZZ_SOLO.pdf" >Hospitality Rider</a> *(Right Click to Open in New Tab.)*
+<!-- ▶️ [Hospitality Rider](documents/HOSPITALITY2025_ENG_J3ZZ_SOLO.pdf) *(Right Click to Open in New Tab.)* -->
 
 <!--
 #TODO update CV, portfolio downloadable as PDF files
